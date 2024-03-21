@@ -127,7 +127,7 @@ header{
 /* footer */
 .container {
     border: 2px solid black;
-    height: 44vh;
+    height: 260px;
     width: auto;
     padding: 10px;
     background-color: black;
