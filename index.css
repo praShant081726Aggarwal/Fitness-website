@@ -124,3 +124,38 @@ header{
 
 /* main close */
 
+/* footer */
+.container {
+    border: 2px solid black;
+    height: 44vh;
+    width: auto;
+    padding: 10px;
+    background-color: black;
+    display:flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+.column1 h3{
+    font-size: 2em;
+    text-decoration: underline;
+    margin-bottom: 2vh;
+}
+.column1{
+    padding: 4px;
+    height:44vh;
+    width: 35vb;
+    font-size:1.3rem;
+    color: #ffc302;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+.copyright{
+    background-color: black;
+    color: #ffc302;
+    text-align: center;
+    padding-bottom: 8px;
+}
+
+/* footer close */
