@@ -139,11 +139,11 @@ header{
 .column1 h3{
     font-size: 2em;
     text-decoration: underline;
-    margin-bottom: 2vh;
+    margin-bottom: 2px;
 }
 .column1{
     padding: 4px;
-    height:44vh;
+    height: 260px;;
     width: 35vb;
     font-size:1.3rem;
     color: #ffc302;
